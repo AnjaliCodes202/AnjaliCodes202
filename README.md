@@ -1,6 +1,5 @@
 <p align="center">
- 
-  <img src="https://via.placeholder.com/800x250.png?text=Anjali+Kumari+%7C+AI+%26+Full+Stack+Developer" alt="Anjali Kumari Banner" width="100%">
+  <img src="PC PHOTO.jpg" alt="Anjali Kumari Banner" width="100%">
 </p>
 
 <p align="center">
